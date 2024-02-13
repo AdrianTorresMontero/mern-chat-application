@@ -1,4 +1,4 @@
-export const host = 'http://localhost:3001';
+export const host = 'https://mern-chat-app-9bia.onrender.com';
 export const registerRoute = `${host}/api/auth/register`;
 export const loginRoute = `${host}/api/auth/login`;
 export const SetAvatarRoute = `${host}/api/auth/setAvatar`;
